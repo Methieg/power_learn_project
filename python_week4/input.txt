@@ -1,5 +1,0 @@
-1. "hello"
-2. "world
-3. "zen"
-4. "monty python"
-5. "c is also cool"
